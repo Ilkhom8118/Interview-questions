@@ -1,0 +1,11 @@
+String Builder =>
+
+StringBuilder string ustida tezkor va samarali o'zgarishlar kiritish uchun ishlatiladi.
+Stringning immutability xususiyati samaradorlikni pasaytirsa, StringBuilder ushbu muammoni hal qiladi.
+Kichik stringlar bilan ishlashda string qulayroq bo'lishi mumkin, ammo ko'p o'zgarishlarda StringBuilder ni ishlatish tavsiya etiladi.
+
+String =>
+
+String — matnli ma'lumotlarni saqlash va ular bilan ishlash uchun asosiy tur.
+Matn ustida turli o'zgarishlar kiritish uchun ko'plab tayyor metodlar mavjud.
+Samaradorlikni oshirish uchun StringBuilder dan foydalaning.

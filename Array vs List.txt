@@ -1,0 +1,17 @@
+Array =>
+
+Bir xil turdagi ma'lumotlarni saqlash uchun qulay.
+Indeks orqali har bir elementga tezda kirish mumkin.
+Ma'lumotlarni tartiblangan holatda saqlaydi.
+Statik bo'lganligi sababli tezroq ishlaydi.
+Xotiradan samarali foydalanadi, chunki oldindan belgilangan o'lchamda ishlaydi.
+
+List =>
+
+List o'lchami dastur davomida avtomatik ravishda kengayadi yoki qisqaradi.
+Qo'shimcha metodlar orqali qulay ishlash imkoniyati mavjud (Add, Remove, Find, va boshqalar).
+Elementlarni o'chirish yoki qo'shishda xotiradan samarali foydalanadi.
+
+Listning kamchiliklari:
+
+Arrayga qaraganda biroz sekinroq ishlaydi, chunki u dinamik bo'lganligi sababli xotira boshqaruvi talab qiladi.
