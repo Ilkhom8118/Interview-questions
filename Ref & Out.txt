@@ -1,0 +1,7 @@
+Ref & Out vazifasi Funksiya Ichidagi o'zgaruvchilarni funksiyadan tashqarida o'gartirish uchun kerak boladi.
+
+Ref => 
+Boshlangich qiymat berish shart yani main Ichida qiymat beriktiriladi.
+
+Out => 
+Boshlang;ich qiymat berish shart emas funksiya Ichida qiymatni biriktirib ketish shart.
