@@ -1,0 +1,20 @@
+Ma'lumotlar (field) va ularga ishlov beruvchi 
+kodlarni (metodlar) bitta joyda, obyekt ichida yashirish.
+Ma'lumotlarni tashqaridan himoya qilish va ularga faqat
+ruxsat etilgan metodlar orqali kirish imkoniyatini berish.
+
+public class BankAccount
+{
+    private decimal balance; // Yashirilgan ma'lumot
+
+    public void Deposit(decimal amount) // Faqat metod orqali o'zgaradi
+    {
+        if (amount > 0)
+            balance += amount;
+    }
+
+    public decimal GetBalance()
+    {
+        return balance;
+    }
+}
