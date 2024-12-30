@@ -1,0 +1,6 @@
+Static =>
+Bu access modifier emas obyect uchun ishlatilmaydi.
+Balki Proporty, metodlar, funksiyalar konstruktorlarda ishlatib ketsak boladi.
+Static o'ziga tegishli azolarini chaqirish uchun obyect yaratish talab qilinmaydi.
+Ularni to'g'ridan to'g'ri Class nomi bilan chaqirib ishlabtib ketiladi.
+Static a'zolar meros qilib olinmaydi.

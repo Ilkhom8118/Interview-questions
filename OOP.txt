@@ -1,0 +1,5 @@
+OOP =>
+
+OOP dasturlashda kodni modullashtirish va qayta foydalanishni osonlashtiradi.
+Uning asosiy tamoyillari — Inkapsulyatsiya, Meros, Polimorfizm, va 
+Abstraksiya yordamida dasturlarni xavfsiz va boshqariladigan qiladi.

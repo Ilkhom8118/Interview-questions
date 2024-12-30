@@ -3,3 +3,24 @@ Bu access modifier emas obyect uchun ishlatilmaydi.
 Balki Proporty, metodlar, funksiyalar konstruktorlarda ishlatib ketsak boladi.
 Static o'ziga tegishli azolarini chaqirish uchun obyect yaratish talab qilinmaydi.
 Ularni to'g'ridan to'g'ri Class nomi bilan chaqirib ishlabtib ketiladi.
+
+Static	                                                        
+Klassga tegishli	                                      
+Obyektsiz ishlatiladi	                                        
+Faqat static a'zolarni chaqira oladi	                        
+Umumiy qiymatlar va funksiyalar uchun ishlatiladi
+
+
+Non static =>
+
+Obyektga tegishli.
+Obyekt yaratish talab etiladi.
+Static va non-static a'zolarni ishlata oladi.
+Non-static a'zolar meros qilib olinadi.          
+
+Non-Static
+
+Obyektga tegishli
+Obyekt talab qiladi
+Static va non-static a'zolarni ishlata oladi
+Alohida obyekt holatlari uchun ishlatiladi
