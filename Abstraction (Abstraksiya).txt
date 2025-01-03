@@ -1,22 +1,18 @@
-Murakkablikni yashirish va faqat zaruriy ma'lumotlarni ochiq qilish.
-Klass ichidagi muhim metodlar va xususiyatlarni ochib, boshqa tafsilotlarni yashiradi.
+Abstraction =>
 
-public abstract class Shape
-{
-    public abstract double GetArea();
-}
+Abstractionning manosi mavhumlik hisoblanadi.
+Biz asosan Ota classlarni Abstraction qila olamiz.
+Dasturlashda Abstration classlar boshqa classlar uchun mavhum boladi.
+Va o'sha classdagi kodlarni murrakabligini yashirib beradi.
 
-public class Circle : Shape
-{
-    private double radius;
+Asosiy qoidalardan biri Abstraction classlardan object olib bo'lmaydi. 
+Boshqa Classlardan meros berish orqali ishlasa bo'ladi.
 
-    public Circle(double radius)
-    {
-        this.radius = radius;
-    }
+Abstraction Class Ichiga Ctor yarata olamiz lekin bu ctor bu abstraction classning ozi uchun ishlamaydi balki meros olgan Child class uchun ishlaydi.
 
-    public override double GetArea()
-    {
-        return Math.PI * radius * radius;
-    }
-}
+Abstraction Classlar Ichida abstraction metodlar ham yarata olamiz lekin bu metodni tana qismini yozmiymiz
+buni ishlatishimiz uchun abstraction classdan meros olayotgan classning Ichida overead kalit sozi yordamida shu metodni tana qismini ishlata olamiz. 
+
+
+
+

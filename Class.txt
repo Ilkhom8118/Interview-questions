@@ -1,2 +1,0 @@
-C# da yana type Class yaratish xosil bo'ladi.
-Classni biz tayyor qolib dip qarashimiz mumkin. Misol uchun G'isht zavodi Class dip olsak bu bizga tayor bo'lgan g'ishtlarni ishlab chiqarib beradi ishlab chiqarilgan g'ishtlar bizga obyekt xisoblanadi.

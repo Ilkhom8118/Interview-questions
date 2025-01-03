@@ -3,3 +3,21 @@ OOP =>
 OOP dasturlashda kodni modullashtirish va qayta foydalanishni osonlashtiradi.
 Uning asosiy tamoyillari — Inkapsulyatsiya, Meros, Polimorfizm, va 
 Abstraksiya yordamida dasturlarni xavfsiz va boshqariladigan qiladi
+
+
+OOP ning afzalliklari
+
+Modullashtirish:
+Kodni klasslar va obyektlarga bo'lish orqali yanada tartibli va boshqariladigan holga keltiradi.
+
+Qayta foydalanish (Reuse):
+Meros olish orqali mavjud kodni yangi klasslarda qayta ishlatish imkonini beradi.
+
+Oson qo'llab-quvvatlash:
+Kodni modullashtirish xatolarni tezroq aniqlash va tuzatishni osonlashtiradi.
+
+Xavfsizlik:
+Inkapsulyatsiya yordamida ma'lumotlarni tashqaridan himoya qiladi.
+
+Moslashuvchanlik
+Polimorfizm va abstraksiya yordamida kodni kengaytirish va o'zgartirish oson.

@@ -1,4 +1,4 @@
-Ref & Out vazifasi Funksiya Ichidagi o'zgaruvchilarni funksiyadan tashqarida o'gartirish uchun kerak boladi.
+Ref & Out vazifasi Funksiya Ichidagi o'zgarishlarni funksiyadan tashqaridagi funksilarga tasir qilishi uchun kerak bo'ladi.
 
 Ref => 
 Boshlangich qiymat berish shart yani main Ichida qiymat beriktiriladi.

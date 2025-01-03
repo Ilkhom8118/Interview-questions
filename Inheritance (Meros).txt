@@ -1,18 +1,13 @@
-Bir klassning boshqa klassdan xususiyatlar va metodlarni meros qilib olishi.
-Kodni qayta ishlatishni va yangi klasslar yaratishni osonlashtiradi.
+Inheritence =>
 
-public class Animal
-{
-    public void Eat()
-    {
-        Console.WriteLine("This animal eats food.");
-    }
-}
+Bu umimiy manoga ega bo'lgan classdan boshqa bir class meros olishiga etiladi.
 
-public class Dog : Animal
-{
-    public void Bark()
-    {
-        Console.WriteLine("Dog barks!");
-    }
-}
+inherdensning 3 xil turi mavjud. 
+Single inherdens - umimiy manoga ega bo'lgan class faqatgina bita meros oladi.
+Herarhikal bu - umimiy manoga ega bolgan classdan ko'pgina class Childlar meros oladi.
+Multilevel bu - umimiy manoga egan bo'lgan class o'gil va nevara claslariga meros bera oladi 
+
+protected
+
+
+

@@ -1,17 +1,15 @@
 Array =>
 
-Bir xil turdagi ma'lumotlarni saqlash uchun qulay.
-Indeks orqali har bir elementga tezda kirish mumkin.
-Ma'lumotlarni tartiblangan holatda saqlaydi.
-Statik bo'lganligi sababli tezroq ishlaydi.
-Xotiradan samarali foydalanadi, chunki oldindan belgilangan o'lchamda ishlaydi.
+Bir xil typedagi o'zgaruvchilarning qiymatini o'zida saqlab turadi.
+Va biz indexi orqali murojat qilib ularni ustida ammalar bajarishimiz mumkin.
+Arrayning ichidagi hajmi o'zgarmaganligi hisobiga tezroq ishlaydi.
+
 
 List =>
 
-List o'lchami dastur davomida avtomatik ravishda kengayadi yoki qisqaradi.
-Qo'shimcha metodlar orqali qulay ishlash imkoniyati mavjud (Add, Remove, Find, va boshqalar).
-Elementlarni o'chirish yoki qo'shishda xotiradan samarali foydalanadi.
+Bu ham huddi Arrayga o'xshab bir xil turdagi typelarni o'z Ichida saqlaydi.
+Farqi shundaki List o'zidagi hajmini automaitik tarzda kengaytirib qisqartirib o'zgartira oladi.
+Shuni hisboiga ha arrayga nisbatan sekinroq ishlaydi. 
+Listni qulaylik tomonlaridan biri buning ichada o'zining maxsus metodlari bor va biz man shu metodlardan foydalangan xolda 
+qiymatlariniustida xar xil amalar bajara olamiz.
 
-Listning kamchiliklari:
-
-Arrayga qaraganda biroz sekinroq ishlaydi, chunki u dinamik bo'lganligi sababli xotira boshqaruvi talab qiladi.
